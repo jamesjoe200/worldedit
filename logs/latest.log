@@ -1,0 +1,89 @@
+[10:49:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[10:49:51] [main/INFO]: Reloading ResourceManager: Default
+[10:49:53] [Worker-Main-2/INFO]: Loaded 7 recipes
+[10:49:56] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[10:49:56] [Server thread/INFO]: Loading properties
+[10:49:56] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[10:49:56] [Server thread/INFO]: Default game type: SURVIVAL
+[10:49:56] [Server thread/INFO]: Generating keypair
+[10:49:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:49:57] [Server thread/INFO]: Using epoll channel type
+[10:49:57] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ab38754 (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
+[10:49:58] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:50:06] [Server thread/WARN]: Legacy plugin LoginSecurity v3.0.2 does not specify an api-version.
+[10:50:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.0-beta-01+0eb9ac7
+[10:50:08] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@44ea8dc4]
+[10:50:08] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.0.2
+[10:50:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.0-beta-01+0eb9ac7
+[10:50:08] [Server thread/INFO]: WEPIF: Updated config file
+[10:50:08] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[10:50:09] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R1 as the Bukkit adapter
+[10:50:09] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[10:50:11] [Server thread/WARN]: [WorldEdit] ====================================================
+[10:50:11] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[10:50:11] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[10:50:11] [Server thread/WARN]: [WorldEdit]   
+[10:50:11] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[10:50:11] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[10:50:11] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[10:50:11] [Server thread/WARN]: [WorldEdit]   
+[10:50:11] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[10:50:11] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[10:50:11] [Server thread/WARN]: [WorldEdit]   
+[10:50:11] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[10:50:11] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[10:50:11] [Server thread/WARN]: [WorldEdit]   
+[10:50:11] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[10:50:11] [Server thread/WARN]: [WorldEdit] ====================================================
+[10:50:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:50:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:50:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:50:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:50:11] [Server thread/INFO]: Preparing level "world"
+[10:50:11] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[10:50:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:50:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:15] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:16] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:16] [Server thread/INFO]: Preparing spawn area: 21%
+[10:50:17] [Server thread/INFO]: Time elapsed: 5223 ms
+[10:50:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:50:19] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:19] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:19] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:19] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:20] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:20] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[10:50:20] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[10:50:21] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[10:50:21] [Server thread/INFO]: Time elapsed: 3801 ms
+[10:50:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[10:50:22] [Server thread/INFO]: Preparing spawn area: 4%
+[10:50:23] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[10:50:23] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[10:50:24] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[10:50:24] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[10:50:25] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[10:50:25] [Server thread/INFO]: Time elapsed: 3826 ms
+[10:50:25] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.0.2
+[10:50:25] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[10:50:25] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[10:50:25] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[10:50:26] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[10:50:26] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[10:50:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:50:26] [Server thread/INFO]: Done (15.013s)! For help, type "help"
+[10:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5055ms or 101 ticks behind
+[10:53:59] [Server thread/INFO]: jamesjoewoonz[/219.92.200.153:2219] logged in with entity id 563 at ([world]-162.60666946312654, 79.0, 256.81159220545715)
+[10:55:03] [Server thread/INFO]: jamesjoewoonz issued server command: //wand
+[10:56:37] [Server thread/INFO]: jamesjoewoonz issued server command: //
+[10:56:43] [Server thread/INFO]: jamesjoewoonz issued server command: //copy
+[11:02:22] [Server thread/INFO]: jamesjoewoonz lost connection: Disconnected
+[11:02:22] [Server thread/INFO]: jamesjoewoonz left the game
